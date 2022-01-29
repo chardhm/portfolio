@@ -1,0 +1,40 @@
+{
+    "experiences": [
+        {
+            "title": "Tech Store",
+            "subtitle": "(e-commerce)",
+            "workType": "Academic Project",
+            "workDescription": [
+                "Uses Firebase database to store products.",
+                "Made components with ReactJS and Bootstrap.",
+                "Use actions and reducers from Redux.",
+                "Components Register and Login integrated with Firebase."
+            ],
+            "dateText": "01/2022 – 01/2022"
+        },
+        {
+            "title": "Restobares App (Dingbell)",
+            "subtitle": "Soy HENRY",
+            "workType": "Academic Project",
+            "workDescription": [
+                "Integration of various components with ReactJS and TailwindCSS.",
+                "Make some actions and reducers from Redux.",
+                "Front-end side.",
+                "Worked on **SCRUM** methodology."
+            ],
+            "dateText": "12/2021 – 01/2022"
+        },
+        {
+            "title": "Videogame App (SPA)",
+            "subtitle": "Soy HENRY",
+            "workType": "Academic Project",
+            "workDescription": [
+                "Web application that allows viewing, filtering and searching by different criteria of different video games called through an API external (www.api.rawg.io).",
+                "Realization of REST Services, ORM with Sequalize and pure CSS design.",
+                "Technologies used: HTML 5, CSS, JavaScript, ECMAScript, React-Redux, NodeJS, Express, PostgreSQL."
+            ],
+            "dateText": "11/2021 – 11/2021"
+        }
+        
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "projects" : [
+  
+        {
+            "title": "Tech Store",
+            "bodyText": "- User **registration/login** option.\n - Cart section (what is **added** to the cart is displayed).\n - Uses **Firebase** database to store products.\n - Option to **search** products.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/chardhm/ecommerce-project"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "ReactJS",
+                "Redux",
+                "Bootstrap",
+                "Firebase"
+            ]
+        },
+        {
+            "image" : "images/projects/dingbell.png",
+            "title": "Restobares App (Dingbell)",
+            "bodyText": "- A mobile application that will **help** you **speed** up and improve the **time** of service to the **user**.\n - Option to select **categories**.\n - Option to **search** for a menu.\n - Option to **pay** online or on site (table).",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/restobares/restobares-app-client-tw"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://restobares-app.web.app/"
+                }
+            ],
+            "tags" : [
+                "JavaScript",
+                "ReactJS",
+                "Redux",
+                "TailwindCSS",
+                "Firebase",
+                "Socket.io"
+            ]
+        },
+        {
+            "title": "VideoGames App",
+            "bodyText": "- Web application that allows viewing, **filtering** and **searching** by different criteria of different video games called through an **API** external **(www.api.rawg.io)**.\n - Realization of **REST** Services, **ORM** with Sequalize.\n - Use pure **CSS** design.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/chardhm/PI-Videogames"
+                }
+            ],
+            "tags" : [
+                "HTML 5",
+                "CSS",
+                "JavaScript",
+                "ECMAScript 6",
+                "React-Redux",
+                "NodeJS",
+                "Express",
+                "PostgreSQL"
+            ]
+        }
+        
+    ]
+}

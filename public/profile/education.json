@@ -1,0 +1,20 @@
+{
+    "education":[
+        {
+            "title": "Sep 2021 - Jun 2022",
+            "cardTitle": "Full-Stack Web Developer",
+            "cardSubtitle":"Bootcamp Soy Henry",
+            "icon" : {
+                "src": "images/education/soyhenry.png"
+            }
+        },
+        {
+            "title": "Aug 2016 - March 2018",
+            "cardTitle": "Bachelor's Degree in Civil Engineering",
+            "cardSubtitle":"TecNM Campus Boca del Río, Boca del Río, Mexico.",
+            "icon" : {
+                "src": "images/education/tecnm.png"
+            }
+        }
+    ]
+}

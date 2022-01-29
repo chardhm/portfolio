@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/chardhm/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/chardhm"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:c.ha.r@hotmail.com"
+        }
+    ]
+}
