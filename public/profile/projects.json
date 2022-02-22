@@ -2,12 +2,17 @@
     "projects" : [
   
         {
+            "image" : "images/projects/techstore.png",
             "title": "Tech Store",
             "bodyText": "- User **registration/login** option.\n - Cart section (what is **added** to the cart is displayed).\n - Uses **Firebase** database to store products.\n - Option to **search** products.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/chardhm/ecommerce-project"
+                    "href": "https://github.com/chardhm/chardhm-ecommerce-project"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://chardhm-ecommerce-project.vercel.app/"
                 }
             ],
             "tags" : [
