@@ -47,6 +47,7 @@
             ]
         },
         {
+            "image" : "images/projects/videogame.png",
             "title": "VideoGames App",
             "bodyText": "- Web application that allows viewing, **filtering** and **searching** by different criteria of different video games called through an **API** external **(www.api.rawg.io)**.\n - Realization of **REST** Services, **ORM** with Sequalize.\n - Use pure **CSS** design.",
             "links": [
